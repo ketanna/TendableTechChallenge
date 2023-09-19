@@ -16,7 +16,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone this repository to your local machine:
 
    ```java
-   git clone https://github.com/your-username/maven-java-selenium-framework.git
+   git clone https://github.com/ketanna/TendableTechChallenge.git
 
 1. Open the project in your preferred IDE.
 
